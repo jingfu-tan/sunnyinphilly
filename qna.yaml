@@ -1,4 +1,6 @@
 created_by: jt
+domain: TV show
+task_description: "It's Always Sunny in Philadelphia"
 seed_examples:
     questions_and_answers:
       - question: How many seasons are there in "It's Always Sunny in Philadelphia"?
@@ -11,10 +13,10 @@ seed_examples:
         answer: Charlie Day is an actor who plays Charlie Kelly in "It's Always Sunny in Philadelphia"
       - question: What does Charlie Kelly do?
         answer: Charlie Kelly is co-owner and janitor of Paddy's Pub
-      - question: How long is each "It's Always Sunny in Philadelphia" episode?
+      - question: How long is each episode for "It's Always Sunny in Philadelphia"?
         answer: It runs between 18-25 minutes
       - question: What network runs "It's Always Sunny in Philadelphia"?
-        answer: FX
+        answer: The network is FX
 document:
   repo: https://github.com/jingfu-tan/sunnyinphilly
   commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
